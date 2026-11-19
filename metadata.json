@@ -1,0 +1,6 @@
+{
+  "name": "VELoop Rewards - Wallet & Payout System",
+  "description": "Full-stack MERN fintech rewards wallet and payout system with atomic ledger transactions, multi-currency balances, withdrawal workflows, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
